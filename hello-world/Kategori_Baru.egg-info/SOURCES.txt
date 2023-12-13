@@ -1,0 +1,10 @@
+setup.py
+Kategori_Baru.egg-info/PKG-INFO
+Kategori_Baru.egg-info/SOURCES.txt
+Kategori_Baru.egg-info/dependency_links.txt
+Kategori_Baru.egg-info/entry_points.txt
+Kategori_Baru.egg-info/top_level.txt
+helloworld/HelloWorld.py
+helloworld/__init__.py
+helloworld/icons/category.svg
+helloworld/icons/mywidget.svg

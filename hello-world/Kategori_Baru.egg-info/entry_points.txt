@@ -1,0 +1,2 @@
+[orange.widgets]
+Kategori Baru = helloworld

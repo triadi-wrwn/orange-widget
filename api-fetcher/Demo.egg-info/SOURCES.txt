@@ -1,0 +1,8 @@
+setup.py
+ApiFetcherWidget/__init__.py
+ApiFetcherWidget/api_fetcher_widget.py
+Demo.egg-info/PKG-INFO
+Demo.egg-info/SOURCES.txt
+Demo.egg-info/dependency_links.txt
+Demo.egg-info/entry_points.txt
+Demo.egg-info/top_level.txt
